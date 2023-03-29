@@ -1,4 +1,4 @@
-# Quiz 4.2.b: Threads synchonization for a campus library
+# Quiz 3.2.b: Threads synchonization for a campus library
 
 Write a C++ program that manages books loan for a library.
 
